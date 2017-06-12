@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Boilerplate for starting building react apps quickly",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/alan2207/react-redux-starter",
   "scripts": {
     "start": "webpack-dev-server --open",
     "build": "NODE_ENV='production' webpack -p",
