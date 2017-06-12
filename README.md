@@ -21,7 +21,7 @@ Boilerplate for creating React apps inspired by [ReduxSimpleStarter](https://git
 ### Usage:
 
 * Download the package to your local machine:       
-`git clone `
+`git clone https://github.com/alan2207/react-redux-starter.git`
 
 * Install required dependencies:  
 `npm install`
