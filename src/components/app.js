@@ -4,7 +4,9 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h2>React-Redux-Starter-Boilerplate</h2>
+        <a href="https://github.com/alan2207/react-redux-starter" target="blank">
+          <h2>React-Redux-Starter-Boilerplate</h2>
+        </a>
       </div>
       
     );
