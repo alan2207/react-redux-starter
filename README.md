@@ -8,15 +8,9 @@ Boilerplate for creating React apps inspired by [ReduxSimpleStarter](https://git
 
 * redux included
 
-* react-router v3 included
-
-* testing with mocha and chai included
-
 * easy deploy apps to github-pages
 
 * bootstrap included
-
-* lodash included
 
 ### Usage:
 
@@ -34,6 +28,3 @@ Boilerplate for creating React apps inspired by [ReduxSimpleStarter](https://git
 
 * To deploy the app to github-pages (remember to set homepage of the app in package.json):   
 `npm run deploy`
-
-* To test the app:   
-`npm run test` || `npm run test:watch`
