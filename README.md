@@ -1,16 +1,6 @@
 # react-redux-starter
 
-Boilerplate for creating React apps inspired by [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)...
-
-## Features:
-
-* start developing react apps quickly...
-
-* redux included
-
-* easy deploy apps to github-pages
-
-* bootstrap included
+Boilerplate for creating React Single Page Apps.
 
 ### Usage:
 
@@ -26,5 +16,3 @@ Boilerplate for creating React apps inspired by [ReduxSimpleStarter](https://git
 * To build the app:   
 `npm run build`
 
-* To deploy the app to github-pages (remember to set homepage of the app in package.json):   
-`npm run deploy`
